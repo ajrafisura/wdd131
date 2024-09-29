@@ -159,6 +159,7 @@ nav a:hover {
 }
 footer {
     padding: 1rem;
+    color: var(--secondary-color);
     grid-column: 1 / -1;
     display: flex;
     align-items: center;
