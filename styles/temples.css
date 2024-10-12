@@ -27,8 +27,8 @@ body {
 h1 {
     text-align: left;
     padding: 1rem;
-    background-color: var(--accent2-color);
-    color: var(--secondary-color);
+    background-color: #1B263B;
+    color: #E0E1DD;
 }
 
 h2 {
@@ -39,7 +39,7 @@ h2 {
 #menu {
     border: 0;
     background: none;
-    color: var(--secondary-color);
+    color: #E0E1DD;
     position: absolute;
     top: 1.75rem;
     right: 1rem;
@@ -58,8 +58,8 @@ h2 {
     display: flex;
     flex-direction: column;
     list-style: none;
-    background-color: var(--accent1-color);
-    color: var(--secondary-color);
+    background-color: #415A77;
+    color: #E0E1DD;
 }
 
 .navigation a {
@@ -67,12 +67,12 @@ h2 {
     padding: 1rem;  
     text-align: center;
     text-decoration: none;
-    color: var(--secondary-color);
+    color: #E0E1DD;
 }
 
 .navigation a:hover {
-    background-color: var(--nav-hover-background-color);
-    color: var(--secondary-color);
+    background-color: #252422;
+    color: #E0E1DD;
 
 }
 

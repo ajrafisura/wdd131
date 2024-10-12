@@ -17,7 +17,7 @@
     }
     .navigation {
         flex-direction: row;        
-        background-color: var(--accent2-color);
+        background-color: #1B263B;;
         display: grid;
         grid-template-columns: auto auto auto auto auto;
         gap: 10rem;
