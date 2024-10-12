@@ -4,18 +4,6 @@
     box-sizing: border-box;
 }
 
-:root {
-    --primary-color: #778DA9;
-    --secondary-color: #E0E1DD;
-    --accent1-color: #415A77;
-    --accent2-color: #1B263B;
-    
-    --nav-background-color: #CCC5B9;
-    --nav-link-color: #C9ADA7;
-    --nav-hover-link-color: #FFFFFF;
-    --nav-hover-background-color: #252422;
-}
-
 header {
     display: block;
 }
